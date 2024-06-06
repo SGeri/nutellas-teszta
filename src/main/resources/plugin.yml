@@ -1,0 +1,5 @@
+name: NutellasTeszta
+version: 1.0
+main: dev.sarffy.Main
+author: SGeri
+api-version: 1.20
